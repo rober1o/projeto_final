@@ -43,13 +43,13 @@ Botão B: Ativa/desativa a sirene manualmente.
 
 #### Usando o Simulador Wokwi
 
-- Clone este repositório: git clone https://github.com/rober1o/10.37M2---U4C4O12T----Atividade_interrupcao.git;
+- Clone este repositório: git clone https://github.com/rober1o/projeto_final.git;
 - Usando a extensão Raspberry Pi Pico importar o projeto;
 - Compilar o código e clicar no arquivo diagram.json.
 
 #### Usando a BitDogLab
 
-- Clone este repositório: git clone https://github.com/rober1o/10.37M2---U4C4O12T----Atividade_interrupcao.git;
+- Clone este repositório: git clone https://github.com/rober1o/projeto_final.git;
 - Usando a extensão Raspberry Pi Pico importar o projeto;
 - Compilar o projeto;
 - Plugar a BitDogLab usando um cabo apropriado e gravar o código.
