@@ -57,8 +57,8 @@ Botão B: Ativa/desativa a sirene manualmente.
 ## Atenção
 
 O brilho dos LEDs é muito intenso, para evitar danos aos olhos recomendamos que o brilho_padrao seja ajustado para 10% quando estiver usando o kit BitDogLab.
-
+ Caso necessário ajuste a variavel MARGEM_DE_ERRO para correção do Joystick.
 ## Demonstração
 
 <!-- TODO: adicionar link do vídeo -->
-Vídeo demonstrando as funcionalidades da solução implementada: [Demonstração](https://youtu.be/pDz5KutL2i4)
+Vídeo demonstrando as funcionalidades da solução implementada: [Demonstração](https://youtu.be/oIQkxyrBSPs)

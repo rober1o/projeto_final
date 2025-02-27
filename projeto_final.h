@@ -37,7 +37,7 @@
 #define BUTTON_B 6
 
 // Configurações gerais
-#define BRILHO_PADRAO 5  // Intensidade padrão do brilho
+#define BRILHO_PADRAO 100  // Intensidade padrão do brilho
 #define DEBOUNCE_TIME 200
 // Matriz de LEDs
 #define MATRIZ_PIN 7       // Pino da matriz de LEDs
@@ -54,7 +54,7 @@
 #define BOTAO_JOYSTICK 22
 #define PWM_LIMITE 4095
 #define PWM_DIVISOR 30.52f
-#define MARGEM_ERRO 7  // Define a faixa onde os LEDs permanecerão apagados
+#define MARGEM_ERRO 0  // Define a faixa onde os LEDs permanecerão apagados
 #define BUZZER_PIN 21 // Defina o pino do buzzer
 
 
